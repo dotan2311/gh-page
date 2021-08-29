@@ -1,0 +1,5 @@
+export default {
+    ROLE_SYSTEM_ADMIN: "SYSTEM_ADMIN",
+    ROLE_DORM_OWNER: "DORM_OWNER",
+    ROLE_USER: "USER"
+}

@@ -1,0 +1,26 @@
+{
+        "headerI18n":{
+                "managementAccount" : "Manage Account",
+                "managementDorm" : "Manage Dorm",
+                "registerDormOwner" :"Register DormOwner",
+                "textHayhienthithongtincanhan" : "Please fill in your information",
+                "fullname" : "Full Name",
+                "holderFullname" : "Enter your full name here",
+                "email" : "Email",
+                "holderEmail" : " Enter your email here",
+                "facebook" : "Facebook",
+                "holderFacebook" : " Enter facebook here",
+                "phone" : "Phone",
+                "holderPhone" : "Enter số điện thoại here",
+                "login" : "Login-Register",
+                "profileUser" : "Profile",
+                "favorite" : "Like",
+                "changePassword" : "Change password",
+                "logout" : "Logout"
+        }
+        
+
+    
+    
+
+}

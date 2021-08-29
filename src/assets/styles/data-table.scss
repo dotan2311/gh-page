@@ -1,0 +1,32 @@
+.custom-data-table {
+  td {
+    border: none;
+    vertical-align: top;
+  }
+
+  .el-table__header-wrapper {
+    thead th {
+      border: none;
+    }
+  }
+
+  .scroll-wrapper {
+    display: none;
+  }
+
+  .tool-button {
+    margin-top: 4px;
+    text-align: center;
+
+    .audit-button {
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .btn-delete, .btn-create {
+      width: auto;
+      height: 31px;
+      padding: 0 25px 0 25px;
+    }
+  }
+}

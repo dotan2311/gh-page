@@ -1,0 +1,41 @@
+{
+  "common": {
+    "message": {
+      "serverErrorMessage": "Lỗi hệ thống!",
+      "numberRequired": "Vui lòng nhập số!",
+      "fieldIsRequired": "Trường này là bắt buộc!",
+      "deleteSuccess": "Đã Xoá!",
+      "saveSuccess": "Lưu thành công！",
+      "imageIsRequired": "Vui lòng chọn ảnh",
+      "downloadSuccess": "Tải xuống thành công!",
+      "duplicateCreate": "Bản ghi này đã tồn tại trong hệ thống",
+      "thanksForFeedBack": "Cảm ơn bạn đã đánh giá!",
+      "feedbacked": "Bạn đã đánh giá bài biết này.",
+      "changeStatusSuccessfully" : "Chuyển trạng thái thành công"
+    },
+    "button": {
+      "create": "Tạo",
+      "delete": "Xoá",
+      "search": "Tìm",
+      "update": "Cập nhật",
+      "clearSearch": "Xoá tìm kiếm"
+    },
+    "dataTable": {
+      "item": "Bản ghi",
+      "prev": "Trước",
+      "next": "Sau"
+    },
+    "alertTitle" : {
+      "success": "Thành công",
+      "error": "Đã xảy ra lỗi",
+      "failed": "Thất bại"
+    },
+    "formItem": {
+      "requiredLabel": "*"
+    }
+  },
+  "i18n": {
+    "en": "Tiếng Anh",
+    "vn": "Tiếng Việt"
+  }
+}

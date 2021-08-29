@@ -1,0 +1,24 @@
+{
+    "headerI18n":{
+        "managementAccount" : "Quản lí tài khoản",
+        "managementDorm" : "Quản lí dãy trọ",
+        "registerDormOwner" :"Đăng kí cho thuê",
+        "textHayhienthithongtincanhan" : "Hãy điền đầy đủ các thông tin cá nhân",
+        "fullname" : "Họ và tên",
+        "holderFullname" : "Điền họ và tên của bạn vào đây",
+        "email" : "Email liên hệ",
+        "holderEmail" : " Điền email của bạn vào đây",
+        "facebook" : "Facebook",
+        "holderFacebook" : " Điền facebook của bạn vào đây",
+        "phone" : "Số điện thoại",
+        "holderPhone" : "Điền số điện thoại của bạn vào đây",
+        "login" : "Đăng nhập-Đăng kí",
+        "profileUser" : "Thông tin cá nhân",
+        "favorite" : "Yêu thích",
+        "changePassword" : "Đổi mật khẩu",
+        "logout" : "Đăng xuất"
+        
+    }
+    
+
+}

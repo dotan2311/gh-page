@@ -1,0 +1,58 @@
+{
+  "management": {
+    "searchTitle": "Tìm kiếm",
+    "searchDormName": "Tên Dãy",
+    "searchFloorName": "Tên Tầng",
+    "searchRoomName": "Tên phòng",
+    "price": "Khoảng giá"
+  },
+  "dorm": {
+    "listDorm": {
+      "dormName": "Tên Dãy",
+      "dormImages": "Ảnh dãy trọ",
+      "longitude": "Kinh độ",
+      "latitude": "Vĩ độ",
+      "address": "Địa chỉ",
+      "district": "Quận/Huyện",
+      "subDistrict": "Phường/Xã",
+      "civilGroup": "Tổ",
+      "specificAddress": "Địa chỉ cụ thể",
+      "utilities": "Tiện ích",
+      "description": "Mô tả",
+      "updatedTime": "Thời gian chỉnh sửa",
+      "createdTime": "Thời gian tạo"
+    }
+  },
+  "floor": {
+    "listFloor": {
+      "floorName": "Tên Tầng",
+      "dorm": "Thuộc dãy",
+      "room": "Các phòng",
+      "updatedTime": "Thời gian chỉnh sửa",
+      "createdTime": "Thời gian tạo"
+    }
+  },
+  "room": {
+    "listRoom": {
+      "roomName": "Tên Phòng",
+      "roomImages": "Ảnh phòng",
+      "floor": "Thuộc Tầng",
+      "square": "Diện tích",
+      "capacity": "Sức chứa",
+      "type": "Loại",
+      "status": "Trạng thái",
+      "price": "Giá phòng",
+      "selfContained": "Không gian",
+      "utilities": "Tiện ích phòng",
+      "description": "Mô tả",
+      "updatedTime": "Thời gian chỉnh sửa",
+      "createdTime": "Thời gian tạo"
+    },
+    "status": {
+      "all": "Tất cả",
+      "available": "Còn trống",
+      "fixing": "Đang sửa chữa",
+      "inUse": "Đang sử dụng"
+    }
+  }
+}

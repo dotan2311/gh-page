@@ -1,0 +1,40 @@
+{
+  "common": {
+    "message": {
+      "serverErrorMessage": "System Error!",
+      "numberRequired": "Please input number!",
+      "fieldIsRequired": "This field is required!",
+      "deleteSuccess": "Delete success!",
+      "saveSuccess": "Save success！",
+      "imageIsRequired": "Please select an image",
+      "downloadSuccess": "Download success!",
+      "duplicateCreate": "The record has been existed in system",
+      "thanksForFeedBack": "Thank you for rating!",
+      "feedbacked": "You had feedbacked."
+    },
+    "button": {
+      "create": "Create",
+      "delete": "Delete",
+      "search": "Search",
+      "update": "Update",
+      "clearSearch": "Clear search"
+    },
+    "dataTable": {
+      "item": "Item",
+      "prev": "Prev",
+      "next": "Next"
+    },
+    "alertTitle": {
+      "success": "Success",
+      "error": "Error",
+      "failed": "Failed"
+    },
+    "formItem": {
+      "requiredLabel": "*"
+    }
+  },
+  "i18n": {
+    "en": "English",
+    "vn": "Vietnamese"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "management": {
+    "searchTitle": "Search",
+    "searchDormName": "Dorm name",
+    "searchFloorName": "Floor name",
+    "searchRoomName": "Room name",
+    "price": "Price"
+  },
+  "dorm": {
+    "listDorm": {
+      "dormName": "Dorm name",
+      "dormImages": "Dorm Images",
+      "longitude": "Longitude",
+      "latitude": "Latitude",
+      "address": "Address",
+      "district": "District",
+      "subDistrict": "Sub-district",
+      "civilGroup": "Civil group",
+      "specificAddress": "Specific Address",
+      "utilities": "Utilities",
+      "description": "Description",
+      "updatedTime": "Updated time",
+      "createdTime": "Created time"
+    }
+  },
+  "floor": {
+    "listFloor": {
+      "floorName": "Floor name",
+      "dorm": "Belong dorm",
+      "room": "Rooms",
+      "updatedTime": "Updated time",
+      "createdTime": "Created time"
+    }
+  },
+  "room": {
+    "listRoom": {
+      "roomName": "Room name",
+      "roomImages": "Room images",
+      "floor": "Belong floor",
+      "square": "Square",
+      "capacity": "Capacity",
+      "type": "Type",
+      "status": "Status",
+      "price": "Price",
+      "selfContained": "Room space",
+      "utilities": "Room utilities",
+      "description": "Description",
+      "updatedTime": "Updated time",
+      "createdTime": "Created time"
+    },
+    "status": {
+      "all": "All",
+      "available": "Available",
+      "fixing": "Fixing",
+      "inUse": "In use"
+    }
+  }
+}
